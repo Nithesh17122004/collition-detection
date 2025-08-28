@@ -34,7 +34,5 @@ A real-time surveillance and safety system that uses computer vision to detect o
 | Frontend        | HTML, CSS (Optional Dashboard)       |
 | Location API    | geopy, geocoder, or IP-based lookup  |
 
----
 
-## 📁 Project Structure
 
