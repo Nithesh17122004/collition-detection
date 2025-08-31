@@ -32,7 +32,7 @@ A real-time surveillance and safety system that uses computer vision to detect o
 | Computer Vision | OpenCV                               |
 | Notifications   | Telegram Bot API                     |
 | Frontend        | HTML, CSS (Optional Dashboard)       |
-| Location API    | geopy, geocoder, or IP-based lookup  |
+| Location API    | geopy, geocoder  |
 
 
 
